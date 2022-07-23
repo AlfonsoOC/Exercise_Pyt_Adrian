@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Jupyter_notebooks/distancias/datos/*
+Jupyter_notebooks/.DS_Store*
+
