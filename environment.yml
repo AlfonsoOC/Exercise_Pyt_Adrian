@@ -1,0 +1,11 @@
+name: para-jugar-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel
+  - pandas
+  - matplotlib
+  - scipy
+  - numpy
